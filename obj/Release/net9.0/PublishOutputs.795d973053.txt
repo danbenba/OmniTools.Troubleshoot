@@ -1,0 +1,5 @@
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Release\net9.0\publish\DriverInstaller.exe
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Release\net9.0\publish\DriverInstaller.dll
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Release\net9.0\publish\DriverInstaller.deps.json
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Release\net9.0\publish\DriverInstaller.runtimeconfig.json
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Release\net9.0\publish\DriverInstaller.pdb

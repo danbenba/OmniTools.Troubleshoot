@@ -1,0 +1,2 @@
+D:\Software\Development\C#\OmniTools\RepairKit\publish\RepairKit.pdb
+D:\Software\Development\C#\OmniTools\RepairKit\publish\RepairKit.exe

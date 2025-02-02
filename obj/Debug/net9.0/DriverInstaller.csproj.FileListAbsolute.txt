@@ -1,0 +1,14 @@
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.AssemblyInfoInputs.cache
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.AssemblyInfo.cs
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.csproj.CoreCompileInputs.cache
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Debug\net9.0\DriverInstaller.exe
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Debug\net9.0\DriverInstaller.deps.json
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Debug\net9.0\DriverInstaller.runtimeconfig.json
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Debug\net9.0\DriverInstaller.dll
+D:\Software\Development\C#\OmniTools\DriverInstaller\bin\Debug\net9.0\DriverInstaller.pdb
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.dll
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\refint\DriverInstaller.dll
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.pdb
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\DriverInstaller.genruntimeconfig.cache
+D:\Software\Development\C#\OmniTools\DriverInstaller\obj\Debug\net9.0\ref\DriverInstaller.dll

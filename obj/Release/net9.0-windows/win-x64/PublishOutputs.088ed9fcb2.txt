@@ -1,0 +1,2 @@
+D:\Software\Development\C#\OmniTools\DriverInstaller\publish\DriverInstaller.pdb
+D:\Software\Development\C#\OmniTools\DriverInstaller\publish\DriverInstaller.exe
